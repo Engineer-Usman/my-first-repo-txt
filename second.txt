@@ -1,0 +1,2 @@
+minimum time to complete the task 12 month
+maximum time to complete the task 18 month
