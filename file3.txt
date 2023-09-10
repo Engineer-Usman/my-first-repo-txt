@@ -1,0 +1,4 @@
+chapter -3
+
+starting learning C language
+take 1 month to understand basic concepts
